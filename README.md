@@ -3,4 +3,4 @@ https://github.com/bayrak-yavuz/InternProject002
 
 
 
-👆🏻 In this project i work with 3 people.
+👆🏻 In this project i worked with 3 people.
